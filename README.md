@@ -37,6 +37,7 @@ It currently supports the following altcoins:
 * Feathercoin
 * Gobyte
 * Groestlcoin
+* LBRYCredits
 * Litecoin
 * Monacoin
 * MonetaryUnit
