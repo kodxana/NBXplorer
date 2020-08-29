@@ -30,6 +30,7 @@ namespace NBXplorer
 			InitLiquid(networkType);
 			InitQtum(networkType);
 			InitMonetaryUnit(networkType);
+			InitLBRYCredits(networkType);
 			foreach (var chain in _Networks.Values)
 			{
 				chain.DerivationStrategyFactory ??= chain.CreateStrategyFactory();
